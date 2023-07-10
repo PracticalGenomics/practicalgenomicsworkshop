@@ -21,12 +21,12 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://juliambowden.github.io/practical-genomics-workshop'
+url: 'https://juliambowden.github.io/fertiglab'
 baseurl: ''
-title: 'Practical Genomics Workshop'
-description: 'This is the website for the Practical Genomics Workshop'
+title: 'Fertig Lab'
+description: 'This is the website for Fertig Lab'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://i.imgur.com/Z7bB2HI.png"
 
 # Pagination
 paginate: 5
@@ -36,10 +36,20 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
+- title: Biography
+  url: /biography/
+- title: Research Areas
+  url: /research/
+- title: Lab Members
+  url: /lab-members/
+- title: Publications
+  url: /publications/
+- title: Software
+  url: /software/
+- title: Teaching
+  url: /teaching/
+- title: Opportunities
+  url: /opportunities/
 
 # Footer nav
 navigation_footer:
