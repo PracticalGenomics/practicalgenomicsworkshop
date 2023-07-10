@@ -34,8 +34,6 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
-  url: /
 - title: Biography
   url: /biography/
 - title: Research Areas
