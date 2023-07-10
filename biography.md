@@ -2,7 +2,7 @@
 title: Biography
 ---
 
-{% include figure.html image="/fertiglab/images/elana-fertig.jpg" position="left" width="299" height="375" style="margin: 0px 40px 0px 0px;" %}
+{% include figure.html image="/fertiglab/images/elana-fertig.jpg" position="left" width="299" height="375" style="margin: 20px 40px 0px 0px;" %}
 
 # Elana J Fertig, PhD
 
@@ -14,7 +14,7 @@ Dr. Fertig's research is featured in over numerous peer-reviewed publications, R
 
 ## Affiliations
 
-{% include figure.html image="/fertiglab/images/affiliations.png" position="left" width="300" height="197" style="margin: 0px 80px 0px 0px;" %}
+{% include figure.html image="/fertiglab/images/affiliations.png" position="left" width="300" height="197" style="margin: 0px 800px 0px 0px;" %}
 
 - <a href="https://www.rits.onc.jhmi.edu/dbb/" target="_blank">Quantitative Sciences Division, Department of Oncology, Director</a>
 - Convergence Institute, Co-Director
