@@ -16,7 +16,7 @@ feature_text: |
 - Pattern detection and semi-supervised algorithms
 - Precision medicine in cancer
 - <a href="https://theconversation.com/what-netflix-can-teach-us-about-treating-cancer-74806" target="_blank">"What Netflix can teach us about treating cancer"</a>
-- < a href="https://itunes.apple.com/us/podcast/johns-hopkins-kimmel-cancer-center-podcasts/id1385159689?mt=2" target="_blank">Johns Hopkins Kimmel Cancer Center Podcast with Dr. Fertig on mathematics in cancer research.</a>
+- <a href="https://itunes.apple.com/us/podcast/johns-hopkins-kimmel-cancer-center-podcasts/id1385159689?mt=2" target="_blank">Johns Hopkins Kimmel Cancer Center Podcast with Dr. Fertig on mathematics in cancer research.</a>
 
 ## Recent News
 - Recent work published in *Neuron and Cell Systems* develops new algorithms for single cell genomics to track cellular transitions in the developing retina <a href="https://www.eurekalert.org/pub_releases/2019-05/jhm-fac052419.php" target="_blank">"Finding a cell's true identity"</a>
@@ -30,5 +30,4 @@ feature_text: |
 
 ## Social
 
-{% include button.html text="@FertigLab" link="https://www.twitter.com/FertigLab" icon="twitter" %}
-{% include button.html text="LinkedIn" link="https://www.linkedin.com/in/elana-fertig-7782bb1" icon="linkedin" %}
+{% include button.html text="@FertigLab" link="https://www.twitter.com/FertigLab" icon="twitter" %} {% include button.html text="LinkedIn" link="https://www.linkedin.com/in/elana-fertig-7782bb1" icon="linkedin" %}
