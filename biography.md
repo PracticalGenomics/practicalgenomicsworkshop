@@ -14,7 +14,8 @@ Dr. Fertig's research is featured in over numerous peer-reviewed publications, R
 
 ## Affiliations
 
-<img src="/fertiglab/images/affiliations.png" align="left" style="margin: 0px 55px 10px 0px;" width="250" height="147" />- <a href="https://www.rits.onc.jhmi.edu/dbb/" target="_blank">Quantitative Sciences Division, Department of Oncology, Director</a>
+<img src="/fertiglab/images/affiliations.png" align="left" style="margin: 0px 55px 10px 0px;" width="250" height="147" />
+- <a href="https://www.rits.onc.jhmi.edu/dbb/" target="_blank">Quantitative Sciences Division, Department of Oncology, Director</a>
 - Convergence Institute, Co-Director
 - Single-Cell Training and Analysis Center, Co-Director
 - <a href="http://genomics.jhu.edu/" target="_blank">Center for Computational Genomics</a>
