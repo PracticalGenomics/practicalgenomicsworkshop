@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Fertig Lab'
 description: 'This is the website for Fertig Lab'
 permalink: pretty
-logo: "https://i.imgur.com/Z7bB2HI.png"
+logo: /juliambowden/images/FertigLabLogo.png
 
 # Pagination
 paginate: 5
