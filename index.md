@@ -28,6 +28,6 @@ feature_text: |
 - NCI GI SPORE Pilot Award
 - <a href="https://www.hopkinsmedicine.org/news/media/releases/five_johns_hopkins_scientists_among_83_who_will_share_in_15_million_award_from_chan_zuckerberg_initiative_to_fund_computer_based_research_on_human_cells" target="_blank">CZI Collaborative Computational Tools for the Human Cell Atlas</a>
 
-## <p>Social</p>
+## <center>Social</center>
 
 {% include button.html text="@FertigLab" link="https://www.twitter.com/FertigLab" icon="twitter" %} {% include button.html text="LinkedIn" link="https://www.linkedin.com/in/elana-fertig-7782bb1" icon="linkedin" %}
