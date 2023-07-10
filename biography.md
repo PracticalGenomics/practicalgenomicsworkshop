@@ -2,7 +2,7 @@
 title: Biography
 ---
 
-{% include figure.html image="/fertiglab/images/elana-fertig.jpg" position="left" width="299" height="375" style="margin: 20px 40px 0px 0px;" %}
+<img src="/fertiglab/images/elana-fertig.jpg" align="left" style="margin: 0px 20px 0px 0px;" />
 
 # Elana J Fertig, PhD
 
