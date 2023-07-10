@@ -8,7 +8,7 @@ feature_text: |
   #### SKCCC, Johns Hopkins
 ---
 
-# Lab Information
+# <center>Lab Information</center>
 
 ## Research Areas
 - Systems biology and bioinformatics
