@@ -12,7 +12,7 @@ The ideal candidate will have previous experience in cancer systems biology rese
 
 **Application Procedure:**
 
-Interested applicants should submit a cover letter describing the reason for their interest and fit to the position requirements, their CV, and names and contact information of three references to Dr. Fertig (ejfertig@jhmi.edu).
+Interested applicants should submit a cover letter describing the reason for their interest and fit to the position requirements, their CV, and names and contact information of three references to Dr. Fertig (<a href="mailto:ejfertig@jhmi.edu">ejfertig@jhmi.edu</a>).
 
 **Requirements:**
 
@@ -42,7 +42,7 @@ The ideal candidate will have previous experience in R/Bioconductor, biopython, 
 
 **Application Procedure:**
 
-Interested applicants should submit a cover letter describing the reason for their interest, prior programming and bioinformatics experience, experience in multi-disciplinary research, and fit to the position. They should also send their CV and contact information for 3 references to Dr. Fertig (ejfertig@jhmi.edu).
+Interested applicants should submit a cover letter describing the reason for their interest, prior programming and bioinformatics experience, experience in multi-disciplinary research, and fit to the position. They should also send their CV and contact information for 3 references to Dr. Fertig (<a href="mailto:ejfertig@jhmi.edu">ejfertig@jhmi.edu</a>).
 
 **Requirements:**
 
@@ -63,7 +63,7 @@ Interested applicants should submit a cover letter describing the reason for the
 
 The Fertig lab welcomes students from high school to graduate school for diverse research opportunities.
 
-For inquiries please contact Dr. Fertig (ejfertig@jhmi.edu) with your CV or resume and a brief cover letter describing your previous research experiences, specific interests in this lab, and programming expertise.
+For inquiries please contact Dr. Fertig (<a href="mailto:ejfertig@jhmi.edu">ejfertig@jhmi.edu</a>) with your CV or resume and a brief cover letter describing your previous research experiences, specific interests in this lab, and programming expertise.
 
 ### <center>Diversity & Inclusion</center>
 
