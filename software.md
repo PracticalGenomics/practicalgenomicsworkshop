@@ -2,7 +2,7 @@
 title: <center>Software & Algorithms</center>
 ---
 
-<center>{% include button.html text="Fertig Lab GitHub" link="https://github.com/fertiglab" icon="github" %}</center>
+<p><center>{% include button.html text="Fertig Lab GitHub" link="https://github.com/fertiglab" icon="github" %}</center></p>
 
 ### Coordinated Gene Activity in Pattern Sets (CoGAPS)
 
