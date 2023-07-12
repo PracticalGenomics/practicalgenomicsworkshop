@@ -12,7 +12,7 @@ Dr. Fertig is a Professor of Oncology and Division and Associate Cancer Center D
 
 Dr. Fertig's research is featured in over numerous peer-reviewed publications, R/Bioconductor packages, and competitive funding portfolio as PI and co-I. Notably, she led the team that won the HPN-DREAM8 algorithm to predict phospho-proteomic trajectories from therapeutic response in cancer cells and was elected to the College of Fellows American Institute for Medical and Biomedical Engineering (AIMBE) in 2022. She serves on the editorial boards of the pre-eminent computational biology journals PLoS Computational Biology, Cell Systems, ImmunoInformatics, eLife, and Cancer Research Communications, and as a steering committee member for the NCI Informatics Technology for Cancer Research Consortium.
 
-## Affiliations
+## <center>Affiliations</center>
 
 <!--<img src="/fertiglab/images/affiliations.png" align="left" style="margin: 0px 20px 2px 0px;" width="250" height="147" />-->
 - <a href="https://www.rits.onc.jhmi.edu/dbb/" target="_blank">Quantitative Sciences Division, Department of Oncology, Director</a>
