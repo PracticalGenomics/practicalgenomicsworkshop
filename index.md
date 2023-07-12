@@ -34,4 +34,4 @@ feature_text: |
 
 ## <center>Social</center>
 
-<center>{% include button.html text="@FertigLab" link="https://www.twitter.com/FertigLab" target="_blank" icon="twitter" %} {% include button.html text="LinkedIn" link="https://www.linkedin.com/in/elana-fertig-7782bb1" icon="linkedin" %}</center>
+<center>{% include button.html text="@FertigLab" link="https://www.twitter.com/FertigLab" icon="twitter" color="#00acee" %} {% include button.html text="LinkedIn" link="https://www.linkedin.com/in/elana-fertig-7782bb1" icon="linkedin" color="#0072b1" %}</center>
