@@ -2,6 +2,8 @@
 title: <center>Software & Algorithms</center>
 ---
 
+<center>{% include button.html text="Fertig Lab GitHub" link="https://github.com/fertiglab" icon="github" %}</center>
+
 ### Coordinated Gene Activity in Pattern Sets (CoGAPS)
 
 Bayesian Non-negative matrix algorithm. Used for pattern identification algorithm from genomics data. Implemented in the <a href="https://www.bioconductor.org/packages/release/bioc/html/CoGAPS.html" target="_blank">R/Bioconductor package CoGAPS</a>.
