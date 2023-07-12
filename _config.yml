@@ -24,9 +24,9 @@ plugins:
 url: 'https://juliambowden.github.io/fertiglab'
 baseurl: ''
 title: 'Fertig Lab'
-description: 'This is the website for Fertig Lab'
 permalink: pretty
 logo: "/images/FertigLabLogo.png"
+favicon: "/images/FertigLabFavicon.png"
 
 # Pagination
 paginate: 5
