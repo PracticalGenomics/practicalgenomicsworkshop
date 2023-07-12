@@ -6,12 +6,10 @@ styles: true
 @import "alembic";
 
 // Background colours
-{
 $backgroundColour: #ffffff !default;
 $codeBackgroundColour: #fafafa !default;
 $featureBackgroundColour: #f9fafa !default;
 $accentColour: #003278 !default;
-  }
 
 // Main content
 .main {
