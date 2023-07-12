@@ -4,7 +4,7 @@ title: <center>Biography</center>
 
 <img src="/fertiglab/images/elana-fertig.jpg" align="left" style="margin: 20px 30px 30px 0px;" />
 
-# Elana J Fertig, PhD
+## Elana J Fertig, PhD
 
 Dr. Fertig advances a new predictive medicine paradigm for oncology by converging systems biology with translational technology development. Her wet lab develops time course models of therapeutic resistance and single cell technology development for analysis of clinical biospecimens. Her computational methods blend mathematical modeling and artificial intelligence to determine the biomarkers and molecular mechanisms of therapeutic resistance and disease progression from multi-platform genomics data. These techniques have broad applicability to the analysis of clinical biospecimens, developmental biology, and neuroscience. 
 
