@@ -1,5 +1,5 @@
 ---
-title: Biography
+title: <center>Biography</center>
 ---
 
 <img src="/fertiglab/images/elana-fertig.jpg" align="left" style="margin: 20px 30px 30px 0px;" />
