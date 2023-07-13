@@ -26,6 +26,12 @@ pSVA removes technical artifacts in known batches from high-throughput data whil
 
 The <a href="https://www.bioconductor.org/packages/devel/bioc/html/projectR.html" target="_blank">ProjectR R/Bioconductor package</a> enables transfer learning of patterns learned with unsupervised learning from source bulk and single cell genomics data to new target genomics datasets. Applicable to CoGAPS, NMF, clustering, and other unsupervised learning methods.
 
+### SpaceMarkers
+
+<a href="https://www.biorxiv.org/content/10.1101/2022.06.02.490672v1" target="_blank">SpaceMarkers</a> is an R/Bioconductor software tool to identify genes associated with latent space interactions in spatial transcriptomics.
+
+{% include button.html text="SpaceMarkers Guide Website" link="https://fertiglab.github.io/SpaceMarkersGuide" %}
+
 ### NSF Conflicts of Interest
 
 <a href="https://dobbs-onc-jhmi.shinyapps.io/ConflictsOfShinyApp/" target="_blank">dobbs-onc-jhmi.shinyapps.io/ConflictsOfShinyApp/</a> queries pubmed articles to generate co-authorship tables for NSF grant applications conflicts of interest.
