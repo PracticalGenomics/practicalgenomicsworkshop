@@ -52,6 +52,8 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
+- title: Site created by Julia Bowden
+  url: "https://github.com/juliambowden"
 - title: Back to top
   url: "#top"
 
