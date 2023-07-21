@@ -14,4 +14,4 @@ Deshpande, A., Loth, M., Sidiropoulos, D. N., Zhang, S., Yuang, L., Bell, A. T. 
 
 Method of the Year 2020: spatially resolved transcriptomics. Nat Methods 18, 1 (2021). [https://doi.org/10.1038/s41592-020-01042-x](https://doi.org/10.1038/s41592-020-01042-x)
 
-<center>{% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=nfCAUr8AAAAJ&hl=en&oi=ao" %}</center>
+<p><center>{% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=nfCAUr8AAAAJ&hl=en&oi=ao" %}</center></p>
