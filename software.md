@@ -29,6 +29,7 @@ The <a href="https://www.bioconductor.org/packages/devel/bioc/html/projectR.html
 
 ### SpaceMarkers
 
+<img src="/fertiglab/images/space-markers-software.png" align="left" style="margin: 0px 30px 0px 0px;"/>
 <a href="https://www.biorxiv.org/content/10.1101/2022.06.02.490672v1" target="_blank">SpaceMarkers</a> is an R/Bioconductor software tool to identify genes associated with latent space interactions in spatial transcriptomics.
 
 {% include button.html text="SpaceMarkers Guide Website" link="https://fertiglab.github.io/SpaceMarkersGuide" %}
