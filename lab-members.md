@@ -6,12 +6,10 @@ title: <center>Lab Members</center>
   <img src="/fertiglab/images/wisam-awadallah.jpg">
   <figcaption>Wisam Awadallah</figcaption>
 </figure>
-
 <figure>
   <img src="/fertiglab/images/daniel-bergman.png">
   <figcaption>Daniel Bergman (Postdoc)</figcaption>
 </figure>
-
 <figure>
   <img src="/fertiglab/images/alex-girgis.jpg">
   <figcaption>Alex Girgis</figcaption>
