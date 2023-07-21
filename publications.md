@@ -6,7 +6,7 @@ title: <center>Publications</center>
 
 <img src="/fertiglab/images/cell-systems-cover.jpg" align="left" style="margin: 0px 10px 0px 0px;"/>
 <div>Deshpande, A., Loth, M., Sidiropoulos, D. N., Zhang, S., Yuang, L., Bell, A. T. F., Zhu, et al. (2023). Uncovering the spatial landscape of molecular interactions within the tumor microenvironment through latent spaces. *Cell Systems*, *14*(4), 285–301. <a href="https://doi.org/https://doi.org/10.1016/j.cels.2023.03.004" target="_blank">https://doi.org/https://doi.org/10.1016/j.cels.2023.03.004</a></div>
-<p></p>
+
 #### Method of the Year 2020: spatially resolved transcriptomics
 
 <img src="/fertiglab/images/nature-methods-cover.png" align="left" style="margin: 0px 10px 0px 0px;"/>
