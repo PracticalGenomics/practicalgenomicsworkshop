@@ -6,7 +6,7 @@ title: <center>Publications</center>
 
 
 <img src="/fertiglab/images/cell-systems-cover.jpg" align="left" style="margin: 10px 20px 0px 0px;"/>
-<div>Deshpande, A., Loth, M., Sidiropoulos, D. N., Zhang, S., Yuang, L., Bell, A. T. F., Zhu, et al. (2023). Uncovering the spatial landscape of molecular interactions within the tumor microenvironment through latent spaces. *Cell Systems*, *14*(4), 285–301. <a href="https://doi.org/https://doi.org/10.1016/j.cels.2023.03.004" target="_blank">https://doi.org/https://doi.org/10.1016/j.cels.2023.03.004</a></div>
+<div>Deshpande, A., Loth, M., Sidiropoulos, D. N., Zhang, S., Yuang, L., Bell, A. T. F., Zhu, et al. (2023). Uncovering the spatial landscape of molecular interactions within the tumor microenvironment through latent spaces. <i>Cell Systems</i>, <i>14</i>(4), 285–301. <a href="https://doi.org/https://doi.org/10.1016/j.cels.2023.03.004" target="_blank">https://doi.org/https://doi.org/10.1016/j.cels.2023.03.004</a></div>
 
 <br>
 <br>
