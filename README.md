@@ -1,4 +1,4 @@
-# FertigLab Website
+# Practical Genomics Workshop Website
 
 Alembic Theme GitHub Page: <a href="https://github.com/daviddarnes/alembic" target="_blank">Here</a>
 
